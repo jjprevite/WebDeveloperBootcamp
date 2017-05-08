@@ -1,0 +1,3 @@
+Hello from inside the message text file!
+
+Goodbye
